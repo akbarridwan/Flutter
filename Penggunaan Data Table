@@ -14,7 +14,7 @@ class _MyAppState extends State<MyApp> {
       backgroundColor : Colors.redAccent,
       appBar: AppBar(
          backgroundColor : Colors.grey,
-        title: Text('Rico Imanta Ginting - Kelas Mobile2 6SIA6'),
+        title: Text('Akbar Ridwan - Kelas Mobile2 6SIA6'),
       ),
       body: ListView(children: <Widget>[
         Center(
